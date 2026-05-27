@@ -1,6 +1,6 @@
-```python
+python
 # Define the content for the README.md
-readme_content = """# Currency Converter V1
+readme_content = Currency Converter V1
 
 A minimalist, high-contrast currency converter built with **React.js**. This project was developed with a "Deep Obsidian" aesthetic, prioritizing sharp lines, dark backgrounds, and a professional, aggressive design language.
 
