@@ -16,14 +16,14 @@ A minimalist, high-contrast currency converter built with **React.js**. This pro
 - State Management: React Hooks (`useState`)
 
 ## 📂 Project Structure
-```text
+text
 src/
 ├── components/
 │   └── CurrencyConverter.js  # Core logic and styling
 ├── App.js                    # Main application entry
 └── index.js                  # React DOM rendering
 
-```
+
 
 ## ⚙️ Logic Breakdown
 
@@ -36,12 +36,12 @@ ZAR to USD: Amount  0.054
 
 1. Clone the repository.
 2. Install dependencies:
-```bash
+bash
 npm install
 
-```
+
 
 
 3. Start the development server:
-```bash
+bash
 npm start
